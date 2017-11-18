@@ -1,0 +1,2 @@
+# coinhive-test
+Test coinhive
